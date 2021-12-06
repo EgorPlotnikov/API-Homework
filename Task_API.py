@@ -1,4 +1,3 @@
-import datetime
 from itertools import groupby
 from urllib.request import urlopen
 from json import loads
